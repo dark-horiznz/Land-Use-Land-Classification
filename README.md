@@ -1,4 +1,4 @@
-# SIF-Space_Hackathon_2023
+# Land Use Land Classification
 The Deep Learning Model for the LULC Level 2 Classification Problem statement. 
 This Consists of a RESNet model to tackle the LULC Level 2 Classification Problem. The Model Architehture consits of Following Elements and Architehture.
 <img width="824" alt="image" src="https://github.com/dark-horiznz/SIF-Space_Hackathon_2023/assets/141896962/e95fbe19-84fd-4147-9028-ba55512d80f6">
